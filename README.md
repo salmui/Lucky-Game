@@ -1,4 +1,4 @@
-# Lucky-Game
+# salmui.Lucky-Game
 
 - Simple # Guessing Game
 - Number ranges between 1 and 100
